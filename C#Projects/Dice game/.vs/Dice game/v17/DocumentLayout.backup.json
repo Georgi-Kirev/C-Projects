@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\C# projects tests\\Dice game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3F1B85-D205-492C-978B-38F3C1E082EE}|Dice game\\Dice game.csproj|c:\\users\\georgi kirev\\desktop\\c# projects tests\\dice game\\dice game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3F1B85-D205-492C-978B-38F3C1E082EE}|Dice game\\Dice game.csproj|solutionrelative:dice game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# projects tests\\Dice game\\Dice game\\Program.cs",
+              "RelativeDocumentMoniker": "Dice game\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# projects tests\\Dice game\\Dice game\\Program.cs",
+              "RelativeToolTip": "Dice game\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwEIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:52:07.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

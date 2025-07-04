@@ -1,0 +1,8 @@
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Guess the Number Game\Guess the Number Game\bin\Debug\Guess the Number Game.exe.config
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Guess the Number Game\Guess the Number Game\bin\Debug\Guess the Number Game.exe
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Guess the Number Game\Guess the Number Game\bin\Debug\Guess the Number Game.pdb
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Guess the Number Game\Guess the Number Game\obj\Debug\Guess the Number Game.csproj.AssemblyReference.cache
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Guess the Number Game\Guess the Number Game\obj\Debug\Guess the Number Game.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Guess the Number Game\Guess the Number Game\obj\Debug\Guess the Number Game.exe
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Guess the Number Game\Guess the Number Game\obj\Debug\Guess the Number Game.pdb
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Guess the Number Game\Guess the Number Game\obj\Debug\Guess the Number Game.exe.config

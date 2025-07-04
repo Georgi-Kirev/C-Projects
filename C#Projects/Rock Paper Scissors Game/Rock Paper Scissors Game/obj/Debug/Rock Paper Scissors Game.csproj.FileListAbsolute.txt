@@ -1,0 +1,7 @@
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.exe.config
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.exe
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.pdb
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.csproj.AssemblyReference.cache
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.exe
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.pdb

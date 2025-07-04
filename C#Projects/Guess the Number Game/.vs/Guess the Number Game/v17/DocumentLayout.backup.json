@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\C# projects tests\\Guess the Number Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{482821CE-8468-46E7-8B79-D0BC971B6D9C}|Guess the Number Game\\Guess the Number Game.csproj|c:\\users\\georgi kirev\\desktop\\c# projects tests\\guess the number game\\guess the number game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482821CE-8468-46E7-8B79-D0BC971B6D9C}|Guess the Number Game\\Guess the Number Game.csproj|solutionrelative:guess the number game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# projects tests\\Guess the Number Game\\Guess the Number Game\\Program.cs",
+              "RelativeDocumentMoniker": "Guess the Number Game\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# projects tests\\Guess the Number Game\\Guess the Number Game\\Program.cs",
+              "RelativeToolTip": "Guess the Number Game\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:50:33.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

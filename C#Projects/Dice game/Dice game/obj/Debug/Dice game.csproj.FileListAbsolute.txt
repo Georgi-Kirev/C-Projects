@@ -1,0 +1,8 @@
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Dice game\Dice game\bin\Debug\Dice game.exe.config
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Dice game\Dice game\bin\Debug\Dice game.exe
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Dice game\Dice game\bin\Debug\Dice game.pdb
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Dice game\Dice game\obj\Debug\Dice game.csproj.AssemblyReference.cache
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Dice game\Dice game\obj\Debug\Dice game.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Dice game\Dice game\obj\Debug\Dice game.exe
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Dice game\Dice game\obj\Debug\Dice game.pdb
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Dice game\Dice game\obj\Debug\Dice game.exe.config

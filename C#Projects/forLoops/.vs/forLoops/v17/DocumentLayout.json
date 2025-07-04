@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi Kirev\\Desktop\\C# projects tests\\forLoops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C90B43E5-F01C-4558-A8BF-4A41C723BD53}|CheckIfAllNumbersArePositive\\CheckIfAllNumbersArePositive.csproj|c:\\users\\georgi kirev\\desktop\\c# projects tests\\forloops\\checkifallnumbersarepositive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90B43E5-F01C-4558-A8BF-4A41C723BD53}|CheckIfAllNumbersArePositive\\CheckIfAllNumbersArePositive.csproj|solutionrelative:checkifallnumbersarepositive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658526FA-A36F-4154-AEFA-7A5DECCA41C6}|SumEvenAndOddNumbers\\SumEvenAndOddNumbers.csproj|c:\\users\\georgi kirev\\desktop\\c# projects tests\\forloops\\sumevenandoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658526FA-A36F-4154-AEFA-7A5DECCA41C6}|SumEvenAndOddNumbers\\SumEvenAndOddNumbers.csproj|solutionrelative:sumevenandoddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F018795-9207-4C07-B982-7E6AB993ABB6}|Sum1toN\\Sum1toN.csproj|c:\\users\\georgi kirev\\desktop\\c# projects tests\\forloops\\sum1ton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F018795-9207-4C07-B982-7E6AB993ABB6}|Sum1toN\\Sum1toN.csproj|solutionrelative:sum1ton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# projects tests\\forLoops\\CheckIfAllNumbersArePositive\\Program.cs",
+              "RelativeDocumentMoniker": "CheckIfAllNumbersArePositive\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# projects tests\\forLoops\\CheckIfAllNumbersArePositive\\Program.cs",
+              "RelativeToolTip": "CheckIfAllNumbersArePositive\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:40:30.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# projects tests\\forLoops\\SumEvenAndOddNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SumEvenAndOddNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# projects tests\\forLoops\\SumEvenAndOddNumbers\\Program.cs",
+              "RelativeToolTip": "SumEvenAndOddNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:42:17.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi Kirev\\Desktop\\C# projects tests\\forLoops\\Sum1toN\\Program.cs",
+              "RelativeDocumentMoniker": "Sum1toN\\Program.cs",
+              "ToolTip": "C:\\Users\\Georgi Kirev\\Desktop\\C# projects tests\\forLoops\\Sum1toN\\Program.cs",
+              "RelativeToolTip": "Sum1toN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:26:09.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

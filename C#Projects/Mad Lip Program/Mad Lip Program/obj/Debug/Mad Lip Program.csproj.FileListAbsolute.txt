@@ -1,0 +1,8 @@
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Mad Lip Program\Mad Lip Program\bin\Debug\Mad Lip Program.exe.config
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Mad Lip Program\Mad Lip Program\bin\Debug\Mad Lip Program.exe
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Mad Lip Program\Mad Lip Program\bin\Debug\Mad Lip Program.pdb
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Mad Lip Program\Mad Lip Program\obj\Debug\Mad Lip Program.csproj.AssemblyReference.cache
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Mad Lip Program\Mad Lip Program\obj\Debug\Mad Lip Program.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Mad Lip Program\Mad Lip Program\obj\Debug\Mad Lip Program.exe
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Mad Lip Program\Mad Lip Program\obj\Debug\Mad Lip Program.pdb
+C:\Users\Georgi Kirev\Desktop\C# projects tests\Mad Lip Program\Mad Lip Program\obj\Debug\Mad Lip Program.exe.config

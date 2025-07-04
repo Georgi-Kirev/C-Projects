@@ -1,0 +1,7 @@
+C:\Users\Georgi Kirev\Desktop\C# projects tests\To Do List\To Do List\bin\Debug\To Do List.exe.config
+C:\Users\Georgi Kirev\Desktop\C# projects tests\To Do List\To Do List\bin\Debug\To Do List.exe
+C:\Users\Georgi Kirev\Desktop\C# projects tests\To Do List\To Do List\bin\Debug\To Do List.pdb
+C:\Users\Georgi Kirev\Desktop\C# projects tests\To Do List\To Do List\obj\Debug\To Do List.csproj.AssemblyReference.cache
+C:\Users\Georgi Kirev\Desktop\C# projects tests\To Do List\To Do List\obj\Debug\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Kirev\Desktop\C# projects tests\To Do List\To Do List\obj\Debug\To Do List.exe
+C:\Users\Georgi Kirev\Desktop\C# projects tests\To Do List\To Do List\obj\Debug\To Do List.pdb
